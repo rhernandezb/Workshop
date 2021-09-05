@@ -14,3 +14,5 @@ Ahora estamos en la rama1 y realizaremos unos cambios
 estamos haciendo purebas con esta rama sin afectar al master
 
 Esta es la rama que nos gusta que puede corregir el bug que encontramos
+
+Esta es una edición que voy a hacer desde GitHub
