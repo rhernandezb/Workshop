@@ -18,3 +18,7 @@ Esta es la rama que nos gusta que puede corregir el bug que encontramos
 Esta es una edición que voy a hacer desde GitHub
 
 Si hacermos un cambio lo podemos enviar a GitHub desde nuestro equipo local
+
+Es necesario hacer un cambio, pero éste cambio lo va a revisar primero el LT
+
+Una vez que tengamos el VoBo puede hacer un Merge
